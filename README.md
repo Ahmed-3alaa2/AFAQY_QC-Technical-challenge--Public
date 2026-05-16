@@ -1,4 +1,4 @@
-# Afaky Assessment
+# AFAQY (Technical challenge) Assessment
 
 The Assessment is divided into 4 parts
 
@@ -26,7 +26,8 @@ The Assessment is divided into 4 parts
 cd path/to/your/directory
 
 # Clone the GitLab repository
-git clone https://gitlab.com/afaky/AfakyAssessment.git
+Unzip the folder then clone to your local system to execute the test scenario.
+
 
 
 
